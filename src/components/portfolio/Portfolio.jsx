@@ -21,7 +21,7 @@ const data = [
         id:2,
         image: IMG2,
         webtitle: 'Human Fussion',
-        title: 'Heuristics reserach on Anytimes Weight A*',
+        title: 'Heuristics research on Anytimes Weight A*',
         PDF: AWA,
         Web:"https://earlham.edu/faculty-staff/sofia-lemons/"
     },
