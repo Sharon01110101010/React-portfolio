@@ -3,9 +3,9 @@ import './portfolio.css'
 import APT from '../../assets/APT.pdf'
 import AWA from '../../assets/AWA.pdf'
 import Stark from '../../assets/Stark.pdf'
-import IMG1 from '../../assets/portfolio1.png'
-import IMG2 from '../../assets/portfolio2.jpg'
-import IMG3 from '../../assets/portfolio3.png'
+import IMG1 from '../../assets/p1.png'
+import IMG2 from '../../assets/p2.jpg'
+import IMG3 from '../../assets/p3.png'
 
 
 const data = [
