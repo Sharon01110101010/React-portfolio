@@ -30,7 +30,7 @@ const About = () => {
                         </article>
                     </div>
                     <p>
-                    My name is Sharon Wong, and I am a rising junior at Earlham College, 
+                    My name is Sharon Wong, and I am a rising senior at Earlham College, 
                     pursuing a double major in Computer Science and Neuroscience.
                     </p>
 
