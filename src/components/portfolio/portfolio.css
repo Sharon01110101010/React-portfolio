@@ -1,8 +1,20 @@
-.portfolio__container{
+/* .portfolio__container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 2.5rem;
+} */
+
+.portfolio__container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+    padding: 0.1rem 0.1rem; 
+    margin: auto; 
+    /* Ensures the container is centered from the right */
+    margin-left: 1rem; 
+     /* Ensures container shifts 5rem from the left */
 }
+
 
 .portfolio__item{
     background: var(--color-bg-variant);

@@ -1,13 +1,15 @@
 .experience__container{
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: repeat(2, 1fr);
     /* == mean 50 50 left and right  */
-    gap: 10rem;
+    gap: 1rem;
+    margin: auto;
 }
 
 .experience__container > div {
     background: var(--color-bg-variant);
-    padding: 2.4rem 5rem;
+    /* 上下大小 左右*/
+    padding: 2rem 5rem;
     border-radius: 2rem;
     border: 1px solid transparent;
     transition: var(--transition);

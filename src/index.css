@@ -11,8 +11,9 @@
   text-decoration: none;
 }
 
-:root {
-  /* name the variant */
+
+/* Blue version  */ 
+/* :root {
   --color-bg: #1f1f38;
   --color-bg-variant: #2c2c6c;
   --color-primary: #4db5ff ;
@@ -20,8 +21,26 @@
   --color-white: #fff;
   --color-light:rgba(255,255,255,0.6);
 
-  --transition: all 400ms ease;
+  --transition: all 400ms ease; */
 
+
+  :root {
+    /* name the variant */
+    --color-bg: #696969 ; 
+    /* #847577 */
+    --color-bg-variant: #A6A2A2;
+    --color-primary: #FFF8E7  ; 
+    /* #FFF8E7  */
+    --color-primary-variant: #8a817c;
+    --color-white: #fff;
+    --color-light:#D6CCC2;
+    /* rgba(255,255,255,0.6) */
+    --color-try:#dee2ff;
+  
+  
+    --transition: all 400ms ease;
+  
+  
 /* screan size */
   --container-width-lg: 75%;
   --container-width-md: 86%;
@@ -161,3 +180,5 @@ img{
   }
   
  }
+
+

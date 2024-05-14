@@ -23,7 +23,7 @@ const data = [
         webtitle: 'Human Fussion',
         title: 'Heuristics research on Anytimes Weight A*',
         PDF: AWA,
-        Web:"https://earlham.edu/faculty-staff/sofia-lemons/"
+        Web:"https://cs.earlham.edu/"
     },
     {
         id:3,
