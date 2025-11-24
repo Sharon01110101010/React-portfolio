@@ -3,6 +3,8 @@ import './footer.css'
 import {BsLinkedin} from 'react-icons/bs'
 import {FaGithub} from 'react-icons/fa'
 
+/*========================== version 1 ===========================*/
+
 const Footer = () => {
     return (
         <footer>
@@ -32,5 +34,6 @@ const Footer = () => {
 }
 
 export default Footer
+
 
 
