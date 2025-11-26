@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/React-portfolio/static/css/main.48d08934.css",
+    "main.js": "/React-portfolio/static/js/main.65ea31a4.js",
+    "static/media/t4.jpg": "/React-portfolio/static/media/t4.35cc091c64eb5d68189e.jpg",
+    "static/media/t3.jpg": "/React-portfolio/static/media/t3.b75b286d9ba3e2685990.jpg",
+    "static/media/APT.pdf": "/React-portfolio/static/media/APT.0251cb33a7efffba59b2.pdf",
+    "static/media/about-me.jpg": "/React-portfolio/static/media/about-me.f71055c3c74429d3571b.jpg",
+    "static/media/t1.jpg": "/React-portfolio/static/media/t1.a2c609398e1f9075528e.jpg",
+    "static/media/t2.jpg": "/React-portfolio/static/media/t2.1bba4ec30e4ee16f9a56.jpg",
+    "static/media/bc.png": "/React-portfolio/static/media/bc.dd2160f8488f2dcbafb8.png",
+    "static/media/t7.jpg": "/React-portfolio/static/media/t7.fee8a6102a0c94e93b85.jpg",
+    "static/media/p5.jpg": "/React-portfolio/static/media/p5.2942525f4e9a5a3b63f9.jpg",
+    "static/media/Enhancing.pdf": "/React-portfolio/static/media/Enhancing.2ced479794666c578285.pdf",
+    "static/media/p3.png": "/React-portfolio/static/media/p3.3958630b9438ed6a19ca.png",
+    "static/media/Twist1.pdf": "/React-portfolio/static/media/Twist1.35b68612d34d6484b853.pdf",
+    "static/media/p6.jpg": "/React-portfolio/static/media/p6.2270491d008976aea381.jpg",
+    "static/media/p1.png": "/React-portfolio/static/media/p1.c8ca889fdde95c1c537c.png",
+    "static/media/AWA.pdf": "/React-portfolio/static/media/AWA.91193510cb91a536d08b.pdf",
+    "static/media/p2.jpg": "/React-portfolio/static/media/p2.bb36d389de5d327cc0d2.jpg",
+    "static/media/cv.pdf": "/React-portfolio/static/media/cv.a0251e185a20667fa267.pdf",
+    "static/media/p4.jpg": "/React-portfolio/static/media/p4.cf1d434ce351757c3c12.jpg",
+    "static/media/UPenn_sfn_ab.pdf": "/React-portfolio/static/media/UPenn_sfn_ab.cd35c451f84431516bb7.pdf",
+    "static/media/Stark.pdf": "/React-portfolio/static/media/Stark.f5df65b29763fad508fd.pdf",
+    "index.html": "/React-portfolio/index.html",
+    "main.48d08934.css.map": "/React-portfolio/static/css/main.48d08934.css.map",
+    "main.65ea31a4.js.map": "/React-portfolio/static/js/main.65ea31a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48d08934.css",
+    "static/js/main.65ea31a4.js"
+  ]
+}
